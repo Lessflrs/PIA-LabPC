@@ -29,7 +29,7 @@ En este apartado encontamos scripts de Python, con librerias como **Request** y 
 
 Se muestran Scripts en Python con uso de la libreria **socket**, que se utiliza para escaneo de puertos y de la red.
 
-- Link 
+- Link https://github.com/Lessflrs/PIA-LabPC/blob/39dcb7f902d071d475d576fce476fbae0cad1036/Escaner%20de%20Puertos
 
 ### ENVIO DE CORREOS 
 
