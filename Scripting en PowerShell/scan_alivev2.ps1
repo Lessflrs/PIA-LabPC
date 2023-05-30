@@ -1,4 +1,4 @@
-#LESSLIE
+#LESSLIE MONTSERRAT MEDELLIN FLORES 
 #Escaneo de equipos activos en la subred 
 #
 #Determinando gateway 
