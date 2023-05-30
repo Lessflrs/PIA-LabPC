@@ -32,3 +32,7 @@ Se muestran Scripts en Python con uso de la libreria **socket**, que se utiliza 
 - Link 
 
 ### ENVIO DE CORREOS 
+
+En esta ultima seccion se encuentran scripts en python, para el encio de correos de manera automatica. 
+
+- Link
