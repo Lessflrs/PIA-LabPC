@@ -35,4 +35,4 @@ Se muestran Scripts en Python con uso de la libreria **socket**, que se utiliza 
 
 En esta ultima seccion se encuentran scripts en python, para el encio de correos de manera automatica. 
 
-- Link
+- Link https://github.com/Lessflrs/PIA-LabPC/tree/daf0db6a21060c18e5d38d38b6c278ce891a4db4/Envi%C3%B3%20de%20Correos
