@@ -23,7 +23,7 @@ Aaquí se muestran varios scripts donde en cada uno se realizan diferentes tarea
 
 En este apartado encontamos scripts de Python, con librerias como **Request** y **BeautifulSoup** para la realizacion de Webscraping.
 
-- Link 
+- Link https://github.com/Lessflrs/PIA-LabPC/tree/5e8a48f899264a53cdef6c30bda63c3b03d14a0a/Webscraping
 
 ### ESCANER DE PUERTOS 
 
