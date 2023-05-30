@@ -11,7 +11,7 @@ Seguidamente se mostrarán el apartado de cada actividad:
 
 Se mostraran Scripts en Powershell que hagan escaneo de puertos activos en nuestro equipo. 
 
-- Link 
+- Link https://github.com/Lessflrs/PIA-LabPC/tree/e9f310df1484e51762f911573f0132212e712248/Scripting%20en%20PowerShell
 
 ### SCRIPTING EN BASH 
 
