@@ -7,6 +7,7 @@
 - Estos scripts que se mostraran a continuación tienen distintos objetivos 
 
 **Welcome.sh**: Este script nos muestra lo que es la fecha actual, los usuarios que se encuentran conectados y cada uno de los procesos que se están ejecutando. 
+
 **bro.sh**: Nos muestra un mensaje predeterminado con el nombre de quien esta ejecutando.  
 
 **number.sh**: Script que lee tres números asignados por el usuario, y después los muestra.
