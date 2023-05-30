@@ -15,7 +15,7 @@ Se mostraran Scripts en Powershell que hagan escaneo de puertos activos en nuest
 
 ### SCRIPTING EN BASH 
 
-Aaquí se muestran varios scripts donde en cada uno se realizan diferentes tareas, que nos ayudan a tener un mejor conocimiento con el lenguaje de Bash.
+Aquí se muestran varios scripts donde en cada uno se realizan diferentes tareas, que nos ayudan a tener un mejor conocimiento con el lenguaje de Bash.
 
 - Link https://github.com/Lessflrs/PIA-LabPC/tree/e9f310df1484e51762f911573f0132212e712248/Scripting%20en%20Bash
 
