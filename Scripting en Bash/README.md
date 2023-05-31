@@ -16,4 +16,4 @@
 
 **Portscanv1.sh**: Detecta y muestra si los puertos están abiertos o cerrados.
 
-**Superscan.sh**: 
+
