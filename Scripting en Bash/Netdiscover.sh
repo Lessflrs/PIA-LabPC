@@ -11,7 +11,7 @@ which ifconfig && { echo "Comando ifconfig existe...";
                     direccion_ip='ifconfig | grep inet | grep -v "10.0.0.2" | awk "{print $2}"';
                     echo " Esta es tu direccion ip: "$direccion_ip;
 
-                    subred='ifconfig |grep inet |grep -v "127.0.0.1" | awk "{print $2}" | awk -F. "{print $1\".\"$2\".\"$3\".\"}"';
+                    subred='ifconfig |grep inet |grep -v "10.0.0.2" | awk "{print $2}" | awk -F. "{print $1\".\"$2\".\"$3\".\"}"';
                     echo " Esta es tu subred: "$subred;
 
                     }\
