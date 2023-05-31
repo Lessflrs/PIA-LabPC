@@ -18,7 +18,7 @@ Se mostraran Scripts en Powershell que hagan escaneo de puertos activos en nuest
 
 Aquí se muestran varios scripts donde en cada uno se realizan diferentes tareas, que nos ayudan a tener un mejor conocimiento con el lenguaje de Bash.
 
-- Link https://github.com/Lessflrs/PIA-LabPC/tree/c84bf9a1b5d05284acd6aa04bb9d5a383d5051b4/Scripting%20en%20Bash
+- Link https://github.com/Lessflrs/PIA-LabPC/blob/b77fd00f1b7078c27fa040f6b0e40ac65fb73361/Scripting%20en%20Bash/Netdiscover.sh
 
 ### WEBSCRAPING Y ANALISIS DE METADATA 
 
